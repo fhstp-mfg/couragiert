@@ -1,4 +1,6 @@
-#Here all necessary informations can be collected for deploying the website or maintain it.
+#Wiki & How-To
+
+###Here all necessary informations can be collected for deploying the website or maintain it.
 
 **Duplicator**
 The following paths should be excluded from the creation of the archive .zip and installer.php
