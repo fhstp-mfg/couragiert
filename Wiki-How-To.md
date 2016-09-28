@@ -4,7 +4,9 @@
 
 **Duplicator**
 The following paths should be excluded from the creation of the archive .zip and installer.php
-`/home/.sites/78/site4235691/web/_dev/wp-content/backupwordpress-7d8e8ee058-backups;
+`
+/home/.sites/78/site4235691/web/_dev/wp-content/backupwordpress-7d8e8ee058-backups;
 /home/.sites/78/site4235691/web/_dev/wp-content/backups;
 /home/.sites/78/site4235691/web/_dev/wp-content/backup-db;
-/home/.sites/78/site4235691/web/_dev/wp-content/cache;`
+/home/.sites/78/site4235691/web/_dev/wp-content/cache;
+`
